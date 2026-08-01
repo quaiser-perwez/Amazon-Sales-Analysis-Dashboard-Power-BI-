@@ -69,7 +69,7 @@ The dataset contains Amazon sales records with information such as:
 
 Example:
 
-![Dashboard](dashboard.png)
+![Dashboard](amazon dashboard.jpg)
 
 ---
 
@@ -102,11 +102,11 @@ Amazon-Sales-Analysis/
 
 **Quaiser Perwez**
 
-📧 Email: your-email@example.com
+📧 Email: quaiserperwez7862gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: linkedin.com/in/quaiser-perwez-7b937b1b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: [https://github.com/your-username](https://github.com/quaiser-perwez)
 
 🌐 Portfolio: https://your-portfolio-link
 
