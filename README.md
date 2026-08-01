@@ -65,11 +65,7 @@ The dataset contains Amazon sales records with information such as:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard](amazon dashboard.jpg)
+![Dashboard](amazon-dashboard.jpg)
 
 ---
 
